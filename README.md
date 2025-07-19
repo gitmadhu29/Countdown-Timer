@@ -15,8 +15,4 @@ A sleek, responsive countdown timer built with HTML, CSS, and JavaScript.
 2. Select a future date and time.
 3. Use the buttons to control the countdown.
 
-## 🌐 Deployment
-
-To deploy, upload this folder to [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or enable GitHub Pages.
-
 ---
